@@ -1,1 +1,1 @@
-# Problems-on-DSA
+# DSA Practice
