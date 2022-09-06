@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/partition-list/
+
 class Solution {
     public ListNode partition(ListNode head, int x) {
         if(head==null || head.next==null){
